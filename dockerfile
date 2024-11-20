@@ -13,9 +13,6 @@ COPY tajmahal.html .
 COPY sachistupa.html .
 <<<<<<< HEAD
 COPY indiagate.html .
-=======
-COPY india gate.html .
->>>>>>> 01a8bed986f069f45ab3960cb1c0031605671ccd
 COPY style.css .
 COPY images/ ./images/
 
