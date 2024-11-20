@@ -11,7 +11,7 @@ COPY gwaliorfort.html .
 COPY hawamahel.html .
 COPY tajmahal.html .
 COPY sachistupa.html .
-COPY india_gate.html .
+COPY india gate.html .
 COPY style.css .
 COPY images/ ./images/
 
